@@ -31,6 +31,7 @@ body {
 
 .productdescription {
   margin: 10px;
+  text-align: justify;
 }
 
 .availabilityindicator {
@@ -54,11 +55,7 @@ body {
 }
 
 
-.productsize,
-.productweight,
-.pricingdetail1,
-.pricingdetail2,
-.pricingdetail3 {
+.margin-left {
   margin-left: 10px;
 }
 
